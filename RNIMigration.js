@@ -1,11 +1,11 @@
 import React, { PureComponent } from 'react';
 import PropTypes from 'prop-types';
-import FontAwesome from 'react-native-vector-icons/FontAwesome';
-import Foundation from 'react-native-vector-icons/Foundation';
-import Ionicons from 'react-native-vector-icons/Ionicons';
-import MaterialIcons from 'react-native-vector-icons/MaterialIcons';
-import Zocial from 'react-native-vector-icons/Zocial';
-import SimpleLineIcons from 'react-native-vector-icons/SimpleLineIcons';
+import FontAwesome from 'react-native-vector-icons-variant/FontAwesome';
+import Foundation from 'react-native-vector-icons-variant/Foundation';
+import Ionicons from 'react-native-vector-icons-variant/Ionicons';
+import MaterialIcons from 'react-native-vector-icons-variant/MaterialIcons';
+import Zocial from 'react-native-vector-icons-variant/Zocial';
+import SimpleLineIcons from 'react-native-vector-icons-variant/SimpleLineIcons';
 
 const ICON_SET_MAP = {
   fontawesome: FontAwesome,

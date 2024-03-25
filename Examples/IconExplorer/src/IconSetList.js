@@ -1,5 +1,5 @@
 import React, { PureComponent } from 'react';
-import FontAwesome from 'react-native-vector-icons/FontAwesome';
+import FontAwesome from 'react-native-vector-icons-variant/FontAwesome';
 import {
   Alert,
   Image,

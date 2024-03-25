@@ -1,8 +1,8 @@
 {
-  "name": "react-native-vector-icons-directory",
+  "name": "react-native-vector-icons-variant-directory",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://oblador.github.io/react-native-vector-icons",
+  "homepage": "https://github.com/brijeshc/react-native-vector-icons-variant",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^12.0.0",

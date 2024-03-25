@@ -21,7 +21,7 @@ export function createIconSet(
  * somewhere convenient in your project.
  *
  * Example usage
- * import { createIconSetFromFontello } from 'react-native-vector-icons';
+ * import { createIconSetFromFontello } from 'react-native-vector-icons-variant';
  * import fontelloConfig from './config.json';
  * const Icon = createIconSetFromFontello(fontelloConfig);
  *
@@ -36,7 +36,7 @@ export function createIconSetFromFontello(config: {}, fontName?: string, fontFil
  * file into your project
  *
  * Example usage
- * import { createIconSetFromIcoMoon } from 'react-native-vector-icons';
+ * import { createIconSetFromIcoMoon } from 'react-native-vector-icons-variant';
  * import icoMoonConfig from './config.json';
  * const Icon = createIconSetFromIcoMoon(icoMoonConfig);
  *

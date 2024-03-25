@@ -83,7 +83,7 @@ async function main() {
   await makeSvgFont(fontName, './Ioniconstmp/*.svg', svgFontPath);
 
   await Promise.all([
-    // create json file with map of icon name and character code in font, needed for `react-native-vector-icons` integration
+    // create json file with map of icon name and character code in font, needed for `react-native-vector-icons-variant` integration
     generateGlyphMap(svgFontPath, glyphMapPath),
     // convert svg font to ttf font
     convertSvg2Ttf(svgFontPath, tffPath),

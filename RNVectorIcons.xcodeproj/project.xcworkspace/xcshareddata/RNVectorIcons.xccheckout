@@ -11,7 +11,7 @@
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>A1A2C29701292F28F728A71971FE2C46E2332102</key>
-		<string>https://github.com/oblador/react-native-vector-icons.git</string>
+		<string>https://github.com/brijeshc/react-native-vector-icons-variant.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>RNVectorIcons.xcodeproj</string>
@@ -21,7 +21,7 @@
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/oblador/react-native-vector-icons.git</string>
+	<string>https://github.com/brijeshc/react-native-vector-icons-variant.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
@@ -34,7 +34,7 @@
 			<key>IDESourceControlWCCIdentifierKey</key>
 			<string>A1A2C29701292F28F728A71971FE2C46E2332102</string>
 			<key>IDESourceControlWCCName</key>
-			<string>react-native-vector-icons</string>
+			<string>react-native-vector-icons-variant</string>
 		</dict>
 	</array>
 </dict>

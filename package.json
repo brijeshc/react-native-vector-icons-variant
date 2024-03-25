@@ -1,7 +1,7 @@
 {
-  "name": "react-native-vector-icons",
-  "version": "10.0.3",
-  "description": "Customizable Icons for React Native with support for NavBar/TabBar, image source and full styling.",
+  "name": "react-native-vector-icons-variant",
+  "version": "0.0.4",
+  "description": "This is a temporary fork of react-native-vector-icons-variant. Please use the orginal vector-icons package. This package will be deprecated when the origial package is updated with latest materialicons",
   "main": "dist/index.js",
   "types": "index.d.ts",
   "bin": {
@@ -34,34 +34,16 @@
     "build-simplelineicons": "./scripts/simplelineicons.sh"
   },
   "keywords": [
-    "react-native",
-    "react-component",
-    "react-native-component",
-    "react",
-    "mobile",
-    "ios",
-    "android",
-    "osx",
-    "windows",
-    "macos",
-    "ui",
-    "icon",
-    "icons",
-    "vector",
-    "retina",
-    "font"
+    "react-native"
   ],
   "author": {
-    "name": "Joel Arvidsson",
-    "email": "joel@oblador.se"
+    "name": "brijeshc2049",
+    "email": "brijeshchandrakar@hotmail.co.uk"
   },
-  "homepage": "https://github.com/oblador/react-native-vector-icons",
-  "bugs": {
-    "url": "https://github.com/oblador/react-native-vector-icons/issues"
-  },
+  "homepage": "https://github.com/brijeshc/react-native-vector-icons-variant-variant",
   "repository": {
     "type": "git",
-    "url": "git://github.com/oblador/react-native-vector-icons.git"
+    "url": "git://github.com/brijeshc/react-native-vector-icons-variant-variant.git"
   },
   "license": "MIT",
   "dependencies": {

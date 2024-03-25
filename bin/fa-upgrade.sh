@@ -4,7 +4,7 @@ TEMP_DIR_PATH=""
 FONTAWESOME_PRO_DIR_NAME=""
 VERSION=${1:-"5"}
 DEST_DIR_PATH=${2:-"assets/fonts"}
-PROJECT_NAME="react-native-vector-icons"
+PROJECT_NAME="react-native-vector-icons-variant"
 FONT_NAME="Font Awesome Pro"
 
 setup_npm_config()

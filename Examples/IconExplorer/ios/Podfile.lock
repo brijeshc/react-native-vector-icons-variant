@@ -562,7 +562,7 @@ DEPENDENCIES:
   - React-utils (from `../node_modules/react-native/ReactCommon/react/utils`)
   - ReactCommon/turbomodule/core (from `../node_modules/react-native/ReactCommon`)
   - RNScreens (from `../node_modules/react-native-screens`)
-  - RNVectorIcons (from `../node_modules/react-native-vector-icons`)
+  - RNVectorIcons (from `../node_modules/react-native-vector-icons-variant`)
   - Yoga (from `../node_modules/react-native/ReactCommon/yoga`)
 
 SPEC REPOS:
@@ -665,7 +665,7 @@ EXTERNAL SOURCES:
   RNScreens:
     :path: "../node_modules/react-native-screens"
   RNVectorIcons:
-    :path: "../node_modules/react-native-vector-icons"
+    :path: "../node_modules/react-native-vector-icons-variant"
   Yoga:
     :path: "../node_modules/react-native/ReactCommon/yoga"
 

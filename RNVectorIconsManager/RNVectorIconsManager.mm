@@ -18,7 +18,7 @@
 #endif
 
 
-NSString *const RNVIErrorDomain = @"org.oblador.react-native-vector-icons";
+NSString *const RNVIErrorDomain = @"org.oblador.react-native-vector-icons-variant";
 
 @implementation RNVectorIconsManager
 

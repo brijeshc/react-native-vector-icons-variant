@@ -4401,7 +4401,7 @@ react-native-screens@^3.22.1:
     react-freeze "^1.0.0"
     warn-once "^0.1.0"
 
-"react-native-vector-icons@file:../..":
+"react-native-vector-icons-variant@file:../..":
   version "9.2.0"
   dependencies:
     prop-types "^15.7.2"

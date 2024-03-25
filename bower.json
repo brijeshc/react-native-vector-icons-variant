@@ -1,8 +1,8 @@
 {
-  "name": "react-native-vector-icons",
+  "name": "react-native-vector-icons-variant",
   "main": "index.js",
   "version": "0.1.0",
-  "homepage": "https://github.com/oblador/react-native-vector-icons",
+  "homepage": "https://github.com/brijeshc/react-native-vector-icons-variant",
   "authors": [
     "Joel Arvidsson <joel@oblador.se>"
   ],

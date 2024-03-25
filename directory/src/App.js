@@ -17,7 +17,7 @@ const HeaderBar = () => {
   return (
     <div className="Header-Container">
       <div className="Header-Content">
-        <h1 className="Header-Title">react-native-vector-icons directory</h1>
+        <h1 className="Header-Title">react-native-vector-icons-variant directory</h1>
       </div>
     </div>
   );

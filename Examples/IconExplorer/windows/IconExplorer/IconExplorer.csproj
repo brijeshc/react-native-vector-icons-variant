@@ -170,47 +170,47 @@
   </PropertyGroup>
   <ItemGroup>
     <!-- A reference to the entire .Net Framework and Windows SDK are automatically included -->
-    <Content Include="..\..\node_modules\react-native-vector-icons\Fonts\Entypo.ttf">
+    <Content Include="..\..\node_modules\react-native-vector-icons-variant\Fonts\Entypo.ttf">
       <Link>Assets\Entypo.ttf</Link>
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="..\..\node_modules\react-native-vector-icons\Fonts\EvilIcons.ttf">
+    <Content Include="..\..\node_modules\react-native-vector-icons-variant\Fonts\EvilIcons.ttf">
       <Link>Assets\EvilIcons.ttf</Link>
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="..\..\node_modules\react-native-vector-icons\Fonts\FontAwesome.ttf">
+    <Content Include="..\..\node_modules\react-native-vector-icons-variant\Fonts\FontAwesome.ttf">
       <Link>Assets\FontAwesome.ttf</Link>
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="..\..\node_modules\react-native-vector-icons\Fonts\Foundation.ttf">
+    <Content Include="..\..\node_modules\react-native-vector-icons-variant\Fonts\Foundation.ttf">
       <Link>Assets\Foundation.ttf</Link>
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="..\..\node_modules\react-native-vector-icons\Fonts\Ionicons.ttf">
+    <Content Include="..\..\node_modules\react-native-vector-icons-variant\Fonts\Ionicons.ttf">
       <Link>Assets\Ionicons.ttf</Link>
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="..\..\node_modules\react-native-vector-icons\Fonts\MaterialIcons_Regular.ttf">
+    <Content Include="..\..\node_modules\react-native-vector-icons-variant\Fonts\MaterialIcons_Regular.ttf">
       <Link>Assets\MaterialIcons_Regular.ttf</Link>
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="..\..\node_modules\react-native-vector-icons\Fonts\MaterialIcons_Outlined.otf">
+    <Content Include="..\..\node_modules\react-native-vector-icons-variant\Fonts\MaterialIcons_Outlined.otf">
       <Link>Assets\MaterialIcons_Outlined.otf</Link>
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="..\..\node_modules\react-native-vector-icons\Fonts\MaterialIcons_Round.otf">
+    <Content Include="..\..\node_modules\react-native-vector-icons-variant\Fonts\MaterialIcons_Round.otf">
       <Link>Assets\MaterialIcons_Round.otf</Link>
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="..\..\node_modules\react-native-vector-icons\Fonts\MaterialIcons_Sharp.otf">
+    <Content Include="..\..\node_modules\react-native-vector-icons-variant\Fonts\MaterialIcons_Sharp.otf">
       <Link>Assets\MaterialIcons_Sharp.otf</Link>
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="..\..\node_modules\react-native-vector-icons\Fonts\Octicons.ttf">
+    <Content Include="..\..\node_modules\react-native-vector-icons-variant\Fonts\Octicons.ttf">
       <Link>Assets\Octicons.ttf</Link>
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="..\..\node_modules\react-native-vector-icons\Fonts\Zocial.ttf">
+    <Content Include="..\..\node_modules\react-native-vector-icons-variant\Fonts\Zocial.ttf">
       <Link>Assets\Zocial.ttf</Link>
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
