@@ -1,6 +1,6 @@
 {
   "name": "react-native-vector-icons-variant",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "This is a temporary fork of react-native-vector-icons-variant. Please use the orginal vector-icons package. This package will be deprecated when the origial package is updated with latest materialicons",
   "main": "dist/index.js",
   "types": "index.d.ts",
